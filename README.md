@@ -4,6 +4,8 @@
 >
 > Mongoose | Schemas, Models & Documents
 
+Vídeo completo [en este enlace](https://ironhack.zoom.us/rec/share/xJR5Ap_530hJU43r6W3hdZwTPKC5eaa8gHVM8vZbzEr4AIuEcZLLNQ659NI_4_HU)
+
 ## Main points: dynamic templating
 
 - El método `.render()` recibe dos parámetros:
